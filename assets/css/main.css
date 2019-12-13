@@ -25,6 +25,8 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
@@ -2686,7 +2688,21 @@ input, select, textarea {
 			}
 
 /* Header */
-
+#fontstyle1{
+	color: rgb(57, 21, 218);
+}
+#fontstyle2{
+	color: rgb(228, 77, 177);
+}
+#fontstyle3{
+	color: rgb(64, 175, 13);
+}
+#fontstyle4{
+	color: rgb(236, 73, 24);
+}
+#fontstyle5{
+	color: rgb(91, 146, 219);
+}
 	#header {
 		display: -moz-flex;
 		display: -webkit-flex;
